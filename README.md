@@ -4,7 +4,7 @@ MS Teams zindabad!
 
 # 👇 SELECT SUBJECT 👇
 
-- [Maths III](MATHSIII.md)
+- [MATHS III](MATHSIII.md)
 - [COA](COA.md)
 - [DSD](DSD.md)
 - [DSA](DSA.md)
