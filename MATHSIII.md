@@ -1,5 +1,5 @@
 # Maths III Recordings 
-* 8/3 – couldn’t find recording
+* 3 Aug – couldn’t find recording
 
 * [7 Aug (Vinay)](https://web.microsoftstream.com/video/70cdea98-cf51-46ec-9a7c-492a5e177b0d)
 
