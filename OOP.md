@@ -1,4 +1,4 @@
-# OOP Recodings
+# OOP Recordings
 
 - [8/5](https://web.microsoftstream.com/video/2e5f46a3-2f0d-40b3-b81c-f85760f2aa94)
 
