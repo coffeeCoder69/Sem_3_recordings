@@ -26,5 +26,6 @@
 
 - [9/23](https://web.microsoftstream.com/video/1140393e-bdbc-4c6a-88ea-4c1bff0b8c70)
 
-- [9/26](https://web.microsoftstream.com/video/96e72dd8-440b-4048-be4e-3f85f2879a77
-)
+- [9/26](https://web.microsoftstream.com/video/96e72dd8-440b-4048-be4e-3f85f2879a77)
+
+- [10/3](https://web.microsoftstream.com/video/bfe44e14-2e76-4e86-93c6-27ed2e848b58)
