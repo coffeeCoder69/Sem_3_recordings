@@ -1,5 +1,5 @@
 # Maths III Recordings 
-* 3 Aug – couldn’t find recording
+* [3 Aug (Vinay)](https://web.microsoftstream.com/video/e9341912-d31c-4ef6-914e-28fcfe486034)
 
 * [7 Aug (Vinay)](https://web.microsoftstream.com/video/70cdea98-cf51-46ec-9a7c-492a5e177b0d)
 
@@ -20,8 +20,6 @@
 * [4 Sept (sayinath)](https://web.microsoftstream.com/video/40164a52-a269-4e45-9c6f-6b5a9979872f)
 
 * [7 Sept (sayinath)](https://web.microsoftstream.com/video/794e769e-94c6-4efe-9aa6-c3c4df5684ab)
-
-* 11 Sept -Janmashtami holiday
 
 * [14 Sept (vidya)](https://web.microsoftstream.com/video/3e286b2e-af8a-4cc7-b988-d44fe788807e)
 
