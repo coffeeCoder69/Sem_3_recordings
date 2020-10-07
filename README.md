@@ -14,7 +14,7 @@ If anyone wants to contribute, then PM author for contributor access!
 
 # Authors
 
- **Authors:** 
+ **Author:** 
  [Shuvam Mandal](https://github.com/coffeeCoder69)
 
  **Contributors:** 
