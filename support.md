@@ -1,9 +1,7 @@
 # Copy-Paste shortcuts for repository maintainers
 
 
-
 - []()
-
 
 
 - 
