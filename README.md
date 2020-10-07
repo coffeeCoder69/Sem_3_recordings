@@ -8,4 +8,16 @@ MS Teams zindabad!
 - [COA](COA.md)
 - [DSD](DSD.md)
 - [DSA](DSA.md)
-- [OOP](OOP.md)
+- [OOP](OOP.md)'
+
+If anyone wants to contribute, then PM author for contributor access!
+
+# Authors
+
+ **Authors:** 
+ [Shuvam Mandal](https://github.com/coffeeCoder69)
+
+ **Contributors:** 
+ <a href="https://github.com/coffeeCoder69/Sem_3_recordings/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=coffeeCoder69/Sem_3_recordings" />
+</a>
