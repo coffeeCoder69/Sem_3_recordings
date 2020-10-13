@@ -45,3 +45,7 @@
 - [5 Oct](https://web.microsoftstream.com/video/ca82c3f2-84e7-4e71-a731-644f3105ec9b)
 
 - [6 Oct](https://web.microsoftstream.com/video/3e4ed976-56da-4805-b301-ba7ef6fb652b)
+
+- [12 Oct](https://web.microsoftstream.com/video/4b480a5d-c878-4e08-84a8-3dde1c06b441)
+
+- [13 Oct](https://web.microsoftstream.com/video/9e93bf12-48f0-4af9-aaff-d0afdbf157fc)
