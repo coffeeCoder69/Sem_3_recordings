@@ -30,3 +30,5 @@
 * [25 Sept (Vinay)](https://web.microsoftstream.com/video/065f7bb2-e851-40c6-8f3e-baaa59b3f518)
 
 * [28 Sept (Vinay)](https://web.microsoftstream.com/video/76437436-97e5-43d8-976d-f805b1079b44)
+
+* [5 Oct (Vinay)](https://web.microsoftstream.com/video/1aaf7e65-0fd9-4d64-abd3-147f94cb68d6)
