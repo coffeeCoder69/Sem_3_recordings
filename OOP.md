@@ -29,3 +29,5 @@
 - [26 Sept](https://web.microsoftstream.com/video/96e72dd8-440b-4048-be4e-3f85f2879a77)
 
 - [3 Oct](https://web.microsoftstream.com/video/bfe44e14-2e76-4e86-93c6-27ed2e848b58)
+
+- [7 Oct](https://web.microsoftstream.com/video/138a60dc-38aa-42bc-963b-7caf7ee02b9d)
