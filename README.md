@@ -21,3 +21,5 @@ If anyone wants to contribute, then PM author for contributor access!
  <a href="https://github.com/coffeeCoder69/Sem_3_recordings/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=coffeeCoder69/Sem_3_recordings" />
 </a>
+
+***Please Note: This repository needs more contributors, so please feel free to contribute, and also, appreciate our work by giving this repository a star!***
