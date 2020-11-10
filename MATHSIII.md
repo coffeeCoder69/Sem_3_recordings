@@ -32,3 +32,17 @@
 * [28 Sept (Vinay)](https://web.microsoftstream.com/video/76437436-97e5-43d8-976d-f805b1079b44)
 
 * [5 Oct (Vinay)](https://web.microsoftstream.com/video/1aaf7e65-0fd9-4d64-abd3-147f94cb68d6)
+
+* [12 Oct (Vinay)](https://web.microsoftstream.com/video/b2648318-7b3e-4fc2-bd15-2b44ee69a38b)
+
+* [16 Oct (Vinay)](https://web.microsoftstream.com/video/04043958-89dd-437c-9ee8-09b8bcc1d56c)
+
+* [29 Oct (Vinay)](https://web.microsoftstream.com/video/fce0cd12-740f-4952-8732-a65b0cca6e92)
+
+* [30 Oct (Sayinath)](https://web.microsoftstream.com/video/3b882b66-bda1-490b-8d08-339a9bbc9aee)
+
+* [2 Nov (Sayinath)](https://web.microsoftstream.com/video/a92b371e-260b-42b2-af54-6097a5b2ea16)
+
+* [6 Nov (Sayinath)](https://web.microsoftstream.com/video/3dbd7d8f-e103-4ef7-a20a-e9ab539d442f)
+
+* [9 Nov (Sayinath)](https://web.microsoftstream.com/video/19f3fd6f-4205-48d9-9881-c33c3cc95a66)

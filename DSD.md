@@ -51,6 +51,25 @@
   - [Part 1](https://web.microsoftstream.com/video/105290b6-3ae3-4539-897a-29e260d55dc3)
   - [Part 2](https://web.microsoftstream.com/video/6ec6aa4b-9410-4262-a248-dc6ceb640ab9)
 
-- 9 Oct
+- 10 Oct
   - [Part 1](https://web.microsoftstream.com/video/884af780-d26e-4bb9-a116-e4a74615331b)
   - [Part 2](https://web.microsoftstream.com/video/aa255da8-b881-484c-8ffa-5a56506a1e69)
+
+- 14 Oct
+  - [Part 1](https://web.microsoftstream.com/video/a7d68b63-b7ff-410f-a3a8-e6601b98218b)
+  - [Part 2](https://web.microsoftstream.com/video/d4732efa-6ce2-4bf2-8f08-621f5f4e2218)
+  - [Part 3](https://web.microsoftstream.com/video/51c0c137-b076-46fc-ae01-527ef3682c33)
+
+- 28 Oct
+  - [Part 1](https://web.microsoftstream.com/video/2cb433a8-cfc8-4d9c-b05d-6d4bb06f9c5c)
+  - [Part 2](https://web.microsoftstream.com/video/c2fac089-289a-4cd8-8514-4f07ec8333df)
+
+- [31 Oct](https://web.microsoftstream.com/video/76e9fde1-8a16-401e-82e9-b377b014e425)
+
+- 4 Nov
+  - [Part 1](https://web.microsoftstream.com/video/1558f347-33a9-443b-afd5-b38377699cfb)
+  - [Part 2](https://web.microsoftstream.com/video/ca72c7d1-42c9-450c-93b9-b29113efce97)
+
+- 7 Nov
+  - [Part 1](https://web.microsoftstream.com/video/a4d2ea5c-a4b0-4097-bd62-a23a18271677)
+  - [Part 2](https://web.microsoftstream.com/video/e3115048-fc62-4f7e-ba90-30b1d771aadc)
