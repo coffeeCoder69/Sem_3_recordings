@@ -49,3 +49,11 @@
 - [12 Oct](https://web.microsoftstream.com/video/4b480a5d-c878-4e08-84a8-3dde1c06b441)
 
 - [13 Oct](https://web.microsoftstream.com/video/9e93bf12-48f0-4af9-aaff-d0afdbf157fc)
+
+- [27 Oct](https://web.microsoftstream.com/video/378cbc2f-776f-4195-93e8-7aabcac9866d)
+
+- [2 Nov](https://web.microsoftstream.com/video/5876137a-2c65-4378-bbb7-6a76d13add65)
+
+- [3 Nov](https://web.microsoftstream.com/video/c29fdafe-5791-4751-ab60-82a7820fba98)
+
+- [9 Nov](https://web.microsoftstream.com/video/c29fdafe-5791-4751-ab60-82a7820fba98)
