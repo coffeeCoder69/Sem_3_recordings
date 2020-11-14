@@ -39,3 +39,12 @@
 - [14 Oct](https://web.microsoftstream.com/video/eb410029-a94a-42ca-9578-fcd42e6ee650)
 
 - [28 Oct](https://web.microsoftstream.com/video/11e1e6f0-1f92-49c0-af14-9582d4533da2)
+
+<script>
+    var links = document.querySelectorAll( '.post-content a' );  
+    for (var i = 0, length = links.length; i < length; i++) {  
+        if (links[i].hostname != window.location.hostname) {
+            links[i].target = '_blank';
+        }
+    }
+</script>
