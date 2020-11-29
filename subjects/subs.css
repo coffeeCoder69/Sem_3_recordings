@@ -1,0 +1,97 @@
+body {
+    box-sizing: border-box;
+    padding: 0rem;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #606c71;
+}
+
+.page-header {
+    box-sizing: border-box;
+    display: block;
+    color: #fff;
+    text-align: center;
+    background-color: yellow;
+    background-image: linear-gradient(120deg, red, yellow);
+    padding: 3rem 4rem;
+}
+
+.project-name {
+    box-sizing: border-box;
+    margin: 0.67em 0;
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+    font-size: 2.25rem;
+}
+
+.project-tag {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    margin-bottom: 2rem;
+    font-weight: normal;
+    opacity: 0.7;
+    font-size: 1.15rem;
+}
+
+.rec-links {
+    margin: auto;
+    display: block;
+}
+
+.btn-sub {
+    margin: 0.3rem;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    box-sizing: border-box;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: rgba(255, 255, 255, 1);
+    background-color: yellow;
+    background-image: linear-gradient(120deg, red, orange);
+    border-color: rgba(84, 252, 222, 0.2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+    /* padding: 5rem 7rem; */
+    height: 7rem;
+    align-items: center;
+    vertical-align: center;
+    padding-top: 2rem;
+    width: 15rem;
+    font-size: 1rem;
+}
+
+.page-body {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.coa {
+    background-color: yellow;
+    background-image: linear-gradient(120deg, green, yellow);
+}
+
+.dsd {
+    background-color: rgb(25, 0, 255);
+    background-image: linear-gradient(120deg, rgb(247, 9, 9), rgb(25, 0, 255));
+}
+
+.dsa {
+    background-color: rgb(255, 0, 0);
+    background-image: linear-gradient(120deg, rgb(9, 247, 215), rgb(255, 0, 0));
+}
+
+.oop {
+    background-color: rgb(255, 0, 64);
+    background-image: linear-gradient(120deg, rgb(9, 247, 61), rgb(255, 0, 64));
+}
