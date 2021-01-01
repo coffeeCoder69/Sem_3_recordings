@@ -1,8 +1,8 @@
 # OST lab Recodings 
 
-- [Week 1](https://web.microsoftstream.com/video/8fcb93a9-85c9-4725-91e2-61cfd879a4b9)
-
-- [Week 1](https://web.microsoftstream.com/video/01874fa2-f3e9-4ada-8fa6-88c07a7a1827)
+- Week 1
+  - [Part 1](https://web.microsoftstream.com/video/8fcb93a9-85c9-4725-91e2-61cfd879a4b9)
+  - [Part 2](https://web.microsoftstream.com/video/01874fa2-f3e9-4ada-8fa6-88c07a7a1827)
 
 - [Week 2](https://web.microsoftstream.com/video/acabe38b-92fb-439d-b431-154ce8437240)
 
