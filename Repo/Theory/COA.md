@@ -57,3 +57,5 @@
 - [3 Nov](https://web.microsoftstream.com/video/c29fdafe-5791-4751-ab60-82a7820fba98)
 
 - [9 Nov](https://web.microsoftstream.com/video/c29fdafe-5791-4751-ab60-82a7820fba98)
+
+- [10 Nov](https://web.microsoftstream.com/video/dc1172c1-b739-4d48-8688-a7403f70924c)
