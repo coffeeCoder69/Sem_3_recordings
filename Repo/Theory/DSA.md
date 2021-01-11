@@ -2,7 +2,7 @@
 
 - [4 Aug](https://web.microsoftstream.com/video/1a4eb78b-27a1-441f-a5fa-66fb1256b312)
 
-- [6 Aug](https://web.microsoftstream.com/video/1a4eb78b-27a1-441f-a5fa-66fb1256b312)
+- [6 Aug](https://web.microsoftstream.com/video/77548ffd-6cc0-4797-bede-e05192733cdd)
 
 - [11 Aug](https://web.microsoftstream.com/video/3c20f9b0-995b-40fb-bc6d-815d381878e7)
 
