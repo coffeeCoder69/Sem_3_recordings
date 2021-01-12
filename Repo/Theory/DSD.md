@@ -84,4 +84,3 @@
 
 - [25 Nov](https://web.microsoftstream.com/video/dea7305d-f2da-4835-85ae-85ae46273d4a)
 
-- [2 Jan](https://web.microsoftstream.com/video/2ba43745-5ec8-4a68-82e3-74a0a938b78b)
