@@ -2,7 +2,7 @@
 
 - [4 Aug](https://web.microsoftstream.com/video/1a4eb78b-27a1-441f-a5fa-66fb1256b312)
 
-- [6 Aug](https://web.microsoftstream.com/video/1a4eb78b-27a1-441f-a5fa-66fb1256b312)
+- [6 Aug](https://web.microsoftstream.com/video/77548ffd-6cc0-4797-bede-e05192733cdd)
 
 - [11 Aug](https://web.microsoftstream.com/video/3c20f9b0-995b-40fb-bc6d-815d381878e7)
 
@@ -59,3 +59,7 @@
 - [3 Nov](https://web.microsoftstream.com/video/24b2eead-ef5b-4c83-9984-5be676a93439)
 
 - [10 Nov](https://web.microsoftstream.com/video/f4b0ae3d-c98c-43ff-be09-ac12313841a8)
+
+- [17 Nov](https://web.microsoftstream.com/video/7c4d97ce-a622-4561-adb8-b1f9b54a9358)
+
+
