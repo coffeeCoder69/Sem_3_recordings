@@ -50,4 +50,4 @@
   - [Part 1](https://web.microsoftstream.com/video/b4f77815-fc86-4902-9929-783f4cd9e93d)
   - [Part 2](https://web.microsoftstream.com/video/a7d4f0d5-ecdd-4bdf-8f97-43fed7af8912)
 
-  - [3 Dec](https://web.microsoftstream.com/video/b3e97c8a-9a54-4354-9625-0f477beeddf5)
+- [3 Dec](https://web.microsoftstream.com/video/b3e97c8a-9a54-4354-9625-0f477beeddf5)
