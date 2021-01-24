@@ -2,7 +2,7 @@
 This repository stores links to all recorded classes of CSE-B. Anyone from CSE B feel free to use this repository for your use!
 MS Teams zindabad!
 
-[Jump to the website NOW!](https://coffeecoder69.github.io/Sem_3_recordings/)
+[Jump to the website NOW!](https://skully-coder.github.io/Sem_3_recordings/)
 
 # 👇 SELECT SUBJECT 👇
 
