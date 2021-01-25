@@ -46,3 +46,9 @@
 * [6 Nov (Sayinath)](https://web.microsoftstream.com/video/3dbd7d8f-e103-4ef7-a20a-e9ab539d442f)
 
 * [9 Nov (Sayinath)](https://web.microsoftstream.com/video/19f3fd6f-4205-48d9-9881-c33c3cc95a66)
+
+* [13 Nov (Sayinath)](https://web.microsoftstream.com/video/f9cbc945-f6cc-413c-9b16-6c5c1156c6b8)
+
+* [16 Nov (vidya)](https://web.microsoftstream.com/video/d235db6b-1b19-434a-9ce6-1fcae337ce29)
+
+* [20 Nov (vidya)](https://web.microsoftstream.com/video/d187e716-7235-40c2-ad1b-fda97f0e65d0)
